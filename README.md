@@ -1,5 +1,6 @@
 # Basic Chess engine to train new players
 ### Approximately 400~500 ELO
+======
 
 A simple chess engine project to demonstrate an understanding of algorithms and algorithm design
 
