@@ -4,6 +4,7 @@
 A simple chess engine project to demonstrate an understanding of algorithms and algorithm design
 
 The chess engine includes move highlighting, animation and the option to play as either black or white or two players can play against each other.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/SahasT23/NewChessEngineST/assets/108793094/aa495b5c-3878-4a01-a3ad-5419b47ea5f0)
